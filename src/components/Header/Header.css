@@ -1,0 +1,7 @@
+.header{
+    background-color: darkgrey;
+    text-align: center;
+}
+.header:hover{
+    color: rgba(241, 11, 11, 0.849);
+}

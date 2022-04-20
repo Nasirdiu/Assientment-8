@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "price": 437.3113,
+    "img": "https://pixy.org/src2/578/5786223.jpg",
+    "name": "ODIE "
+  },
+  {
+    "id": "2",
+    "price": 418.9684,
+    "img": "https://mbtimetraveler.files.wordpress.com/2016/04/9-science-backed-reasons-to-own-a-dog.jpg",
+    "name": "BRUCE "
+  },
+  {
+    "id": "12",
+    "price": 438.3956,
+    "img": "https://i.pinimg.com/originals/88/d2/e7/88d2e7b3874097a8a7858ec73ff24876.jpg",
+    "name": "LUCKY "
+  },
+  
+  {
+    "id": "4",
+    "price": 465.0741,
+    "img": "https://www.desktopbackground.org/download/1600x1200/2011/01/11/140287_wallpapers-labrador-dog-1600-x-1200-animals-pets-puppies_1600x1200_h.jpg",
+    "name": "AXEL "
+  },
+  {
+    "id": "5",
+    "price": 449.5425,
+    "img": "https://www.wallpapertip.com/wmimgs/35-357999_dog-wallpaper-golden-retriever.jpg",
+    "name": "BUDDY "
+  },
+  {
+    "id": "6",
+    "price": 409.5062,
+    "img": "https://images6.fanpop.com/image/photos/40100000/Dog-dogs-40158079-1200-901.jpg",
+    "name": "ROCKY "
+  },
+  {
+    "id": "7",
+    "price": 432.3474,
+    "img": "https://moradabay-restaurant.com/wp-content/uploads/2020/12/pixel-dogsofinstagram-3-15-19-2048x1365.jpg",
+    "name": "LEO "
+  },
+  {
+    "id": "8",
+    "price": 405.9534,
+    "img": "https://img1.goodfon.com/original/5295x3535/7/c0/sobaka-pes-krasavec.jpg",
+    "name": "ZEUS "
+  },
+  {
+    "id": "9",
+    "price": 438.3956,
+    "img": "https://www.clubpets.com.sg/wp-content/uploads/2019/09/5-tips-to-house-train-your-new-dog-5.jpg",
+    "name": "BAXTER "
+  },
+  {
+    "id": "10",
+    "price": 438.3956,
+    "img": "https://i.playground.ru/i/pix/1757472/image.jpg",
+    "name": "BEAU "
+  },
+  {
+    "id": "11",
+    "price": 438.3956,
+    "img": "https://cdn130.picsart.com/307788729262201.jpg",
+    "name": "RUGER "
+  },
+  {
+    "id": "3",
+    "price": 410.5822,
+    "img": "https://blog-cdn.dogbuddy.com/wp-content/uploads/2017/01/dog-947739_1920.jpg",
+    "name": "ARLO "
+  }
+  
+]

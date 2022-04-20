@@ -1,0 +1,42 @@
+.dog-container {
+  border: 1px solid grey;
+  text-align: center;
+  border-radius: 50px 0px 0px 0px;
+  position: relative;
+  height: 380px;
+}
+.dog-container img {
+  width: 300px;
+  border-radius: 50px 0px 50px 0px;
+  margin-top: 15px;
+}
+.name {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 25px;
+}
+.btn-container {
+  width: 100%;
+  background: #bebcc7;
+  border: none;
+  border-radius: 40px 0px 40px 0px;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  
+}
+.btn-container:hover {
+  background-color: rgb(247, 182, 63);
+}
+.dog-info {
+  margin: 0 14px;
+}
+.dog-info p {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
